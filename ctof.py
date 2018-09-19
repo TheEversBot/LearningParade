@@ -1,6 +1,6 @@
 print '**Hello, welcome to Freds Celcius to Farenheight converter**\n'
-b=input('Please enter your temperature in celcius!\n')
-d=(b*9)/5+32
+temp=input('Please enter your temperature in celcius!\n')
+d=(temp*9)/5+32
 a='your input of '
 c='    resulted in a conversion to' 
 e='degrees farenheight'
